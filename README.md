@@ -2,10 +2,11 @@
 
 ## Features
 
-- User can select the model's temperature
+- User can select the model's temperature (in-progress)
 - Chat log is displayed in real-time
 - User can clear the chat log
-- User can report bugs
+- User can report bugs (in-progress)
+- Users can use speech-to-text (to be added)
 
 ## Built With
 
